@@ -7,3 +7,6 @@
 [submodule "EfsTools"]
 	path = EfsTools
 	url = git@github.com:PeronGH/EfsTools.git
+[submodule "payload-dumper-rust"]
+	path = payload-dumper-rust
+	url = git@github.com:PeronGH/payload-dumper-rust.git
