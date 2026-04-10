@@ -1,0 +1,3 @@
+[submodule "qpst-enable-all-lte-bands-plk110"]
+	path = qpst-enable-all-lte-bands-plk110
+	url = git@github.com:PeronGH/qpst-enable-all-lte-bands-plk110.git
