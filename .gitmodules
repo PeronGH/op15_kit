@@ -1,3 +1,6 @@
 [submodule "qpst-enable-all-lte-bands-plk110"]
 	path = qpst-enable-all-lte-bands-plk110
 	url = git@github.com:PeronGH/qpst-enable-all-lte-bands-plk110.git
+[submodule "gbl_root_canoe"]
+	path = gbl_root_canoe
+	url = git@github.com:PeronGH/gbl_root_canoe.git
