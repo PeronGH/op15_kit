@@ -9,7 +9,7 @@ Tools and resources for the OnePlus 15 Chinese variant (Canoe/PLK110).
 | `ota/` | Scripts to fetch OTA download links from [roms.danielspringer.at](https://roms.danielspringer.at) |
 | [EfsTools](https://github.com/PeronGH/EfsTools) | CLI tool to read/write Qualcomm modem EFS over USB (alternative to QPST EFS Explorer) |
 | [canoe_unlock_bands](https://github.com/PeronGH/canoe_unlock_bands) | Modded policyman configs to unlock all hardware-supported LTE/5G bands |
-| [canoe_gbl](https://github.com/PeronGH/canoe_gbl) | Patches ABL and flashes it to `efisp` as GBL, spoofing locked/verified boot state |
+| [canoe_gbl](https://github.com/PeronGH/canoe_gbl) | Patches ABL and flashes it to `efisp` as GBL, spoofing locked boot state |
 | [canoe_kernel](https://github.com/PeronGH/canoe_kernel) | Custom kernel with SUSFS, KernelSU, container support, and LTO (WIP) |
 | [canoe_165hz](https://github.com/PeronGH/canoe_165hz) | Magisk/KSU module to enable 165Hz refresh rate globally |
 | [payload-dumper-rust](https://github.com/PeronGH/payload-dumper-rust) | Fast Android OTA payload extractor, supports local files and remote URLs |
